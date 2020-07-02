@@ -1,7 +1,2 @@
-New changes done by developer
-
-some more changes dondddddddeddd
-
-
-cccccc
-
+git remote add origin https://github.com/deenu7724/content.git
+git push -u origin master
